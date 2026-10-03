@@ -8,16 +8,16 @@
     {
       "name": "nowloading",
       "source": {
-        "source": "github",
-        "repo": "vgnshiyer/nowloading"
+        "source": "url",
+        "url": "https://github.com/vgnshiyer/nowloading.git"
       },
       "description": "The line that animates while Claude works, redrawn as an old machine at work: a VCR's on-screen display, a split-flap board, an hourglass, a floppy drive, a dot-matrix printer, a two-paddle rally, a filmstrip."
     },
     {
       "name": "tps-report",
       "source": {
-        "source": "github",
-        "repo": "vgnshiyer/tps-report"
+        "source": "url",
+        "url": "https://github.com/vgnshiyer/tps-report.git"
       },
       "description": "Bill from management drops by above the prompt while Claude works. A parody."
     }
