@@ -12,5 +12,5 @@ Then install any of them:
 
 | Mod | What it does | Install |
 | --- | --- | --- |
-| [nowloading](https://github.com/vgnshiyer/nowloading) | The line that animates while Claude works, redrawn as something from before: a VCR's on-screen display, a split-flap departure board, an hourglass. | `/plugin install nowloading@vgnshiyer` |
-| [tps-report](https://github.com/vgnshiyer/tps-report) | Bill from management drops by above the prompt while Claude works. A parody. | `/plugin install tps-report@vgnshiyer` |
+| [nowloading](https://github.com/vgnshiyer/nowloading) | The line that animates while Claude works, redrawn as an old machine at work: a VCR's on-screen display, a split-flap board, an hourglass, a floppy drive, a dot-matrix printer, a two-paddle rally, a filmstrip. | `/plugin install nowloading@vgnshiyer-mods` |
+| [tps-report](https://github.com/vgnshiyer/tps-report) | Bill from management drops by above the prompt while Claude works. A parody. | `/plugin install tps-report@vgnshiyer-mods` |
